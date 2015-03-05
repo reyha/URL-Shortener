@@ -1,7 +1,7 @@
 from django.contrib import admin
 
 # Register your models here.
-from urlshortner.models import URL
+from us.models import URL
 
 class UrlAdmin(admin.ModelAdmin):
 
